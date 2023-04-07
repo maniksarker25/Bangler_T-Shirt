@@ -1,1 +1,1 @@
-### Bangler t-Shirt
+### Bangler T-Shirt
