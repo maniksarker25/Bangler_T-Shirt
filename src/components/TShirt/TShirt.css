@@ -1,0 +1,38 @@
+.t-shirt{
+   border: 1px solid goldenrod;
+   padding: 10px;
+   border-radius: 15px;
+   -webkit-border-radius: 15px;
+   -moz-border-radius: 15px;
+   -ms-border-radius: 15px;
+   -o-border-radius: 15px;
+}
+.t-shirt img{
+    height: 250px ;
+    width: 250px;
+    border-radius: 15px;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    -ms-border-radius: 15px;
+    -o-border-radius: 15px;
+}
+.t-shirt h4{
+    font-size: 25px;
+    font-weight: bold;
+}
+.t-shirt p{
+    font-size: 21px;
+    font-weight: 600px;
+    margin-top: -20px;
+}
+.t-shirt button{
+    background-color: goldenrod;
+    padding: 12px 20px;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
